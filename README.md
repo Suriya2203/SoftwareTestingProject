@@ -5,16 +5,6 @@ This repository contains the manual test plan and test cases for the [Applicatio
 
 Welcome to the **Manual Testing** repository. This project contains all essential documentation and artifacts related to the manual QA process, including the test plan, test cases, execution reports, and testing resources.
 
----
-
-## 📁 Repository Structure
-
-/TestPlan/ # Test strategy, scope, and objectives
-/TestCases/ # Functional, UI, Regression, etc.
-/TestReports/ # Execution results and bug reports
-/Resources/ # Templates, checklists, test data
-
-
 ## 📌 Key Components
 
 ### 1. **Test Plan**
